@@ -279,16 +279,6 @@ docs/Vendor_Performance_Business_Report.md
 - Data Storytelling
 - Business Problem Solving
 
----
-
-# Future Improvements
-
-- Apache Airflow pipeline scheduling
-- Docker containerization
-- Cloud deployment (AWS/Azure)
-- Streamlit analytical application
-- Automated data validation tests
-- CI/CD integration using GitHub Actions
 
 ---
 
